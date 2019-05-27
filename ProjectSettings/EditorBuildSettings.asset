@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/3DVR.unity
+    guid: 3f67e2de218ab724b810afcb42187972
+  - enabled: 0
+    path: Assets/Scenes/3DScreen.unity
+    guid: ae7826a4872384e7d9aae9e229d6e0ee
+  m_configObjects: {}

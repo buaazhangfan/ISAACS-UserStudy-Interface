@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 573f8e2e8478f4c669301e277da960ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - collideMaterial: {fileID: 2100000, guid: 0ebdfb7905093244790e2db73e2e5c13, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

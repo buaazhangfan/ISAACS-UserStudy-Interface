@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - eventBase
+  - Event1
+  - Event0
+  - Event2
+  - Event3
+  - Event4
+  - Event5
+  - Event6
+  - Event7
+  - Event8
+  - Event9
+  - Event10
+  - Event11
+  - Event12
+  - Event13
+  - Event14
+  - Event15
+  - Event16
+  - Event17
+  - Event18
+  - Event19
+  - Event20
+  - Event21
+  - Event22
+  - Event23
+  - Floor
+  - controller_right
+  - shatter
+  - Pivot
+  - Camera
+  - Line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

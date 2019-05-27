@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a539bda7b162f4cfca022c59cffb1e1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Arrows: {fileID: 8086989864110684756, guid: e31b5c1d191f041b18840854f0c24273,
+      type: 3}
+  - shatteredDrone: {fileID: 1461958797777741691, guid: b5e5f7e3adbdf4da88a5be4f063355d7,
+      type: 3}
+  - activatedMaterial: {instanceID: 0}
+  - landingMaterial: {fileID: 2100000, guid: def8c0730149a4a47a3a61cc78f48c8e, type: 2}
+  - collideMaterial: {fileID: 2100000, guid: 7e49aae0b6cec402893e5addc757f0d8, type: 2}
+  - meshRend: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
